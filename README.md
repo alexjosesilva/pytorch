@@ -3,6 +3,8 @@ Em seguida, ele treina a rede usando o conjunto de dados MNIST para classificaç
 Você pode expandir este exemplo adicionando mais camadas à rede, ajustando os hiperparâmetros ou usando conjuntos de dados diferentes.
 
 Tecnologias
-PyTorch
-Python 3
+
+- PyTorch
+
+- Python 3
 
