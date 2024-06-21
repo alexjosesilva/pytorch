@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/alexjosesilva/pytorch_SimpleNN/graph/badge.svg?token=GUWHI4VKML)](https://codecov.io/gh/alexjosesilva/pytorch_SimpleNN)
 ![Contribuidores](https://img.shields.io/github/contributors/alexjosesilva/pytorch_SimpleNN)
 ![Último commit](https://img.shields.io/github/last-commit/alexjosesilva/pytorch_SimpleNN)
-![Docker Image Build](https://github.com/alexjosesilva/pytorch_SimpleNN/actions/workflows/docker-image.yml/badge.svg)
+
 
 Este código cria uma rede neural simples com três camadas totalmente conectadas. 
 Em seguida, ele treina a rede usando o conjunto de dados MNIST para classificação de dígitos escritos à mão. 
